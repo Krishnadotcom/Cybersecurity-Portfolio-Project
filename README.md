@@ -3,6 +3,9 @@
 
 ## Step 1 — Domain Acquisition & Hosting Provider
 
+
+  ![Hostinger Dashboard](hostinger.png)
+  
 ### Technical Implementation:
 Initiated domain acquisition and initial hosting setup using **Hostinger**. The hosting provider offers enhanced features such as:
 
@@ -27,4 +30,3 @@ These features ensure a stable foundation for a cloud-centric enterprise infrast
   - AI-powered website builder  
   - Performance metrics (PageSpeed 99)
    
-  ![Hostinger Dashboard](hostinger.png)
