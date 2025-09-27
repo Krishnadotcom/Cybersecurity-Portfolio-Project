@@ -26,4 +26,5 @@ These features ensure a stable foundation for a cloud-centric enterprise infrast
   - Domain management  
   - AI-powered website builder  
   - Performance metrics (PageSpeed 99)
+   
   ![Hostinger Dashboard](hostinger.png)
