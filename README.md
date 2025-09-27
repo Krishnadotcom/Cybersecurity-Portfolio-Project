@@ -1,5 +1,5 @@
-# Cybersecurity-Portfolio-Project
-# Phase 1: Foundation Setup
+# Setup cloud centric Org from scratch with SOC
+## Phase 1: Foundation Setup
 
 ## Step 1 — Domain Acquisition & Hosting Provider
 
