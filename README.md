@@ -121,4 +121,30 @@ These features ensure a stable foundation for a cloud-centric enterprise infrast
   - Domain management  
   - AI-powered website builder  
   - Performance metrics (PageSpeed 99)
-   
+## Phase 2: Microsoft 365 Enterprise Setup
+
+## **Step 2 — Microsoft 365 Tenant Creation**
+**Technical Implementation:** Established enterprise Microsoft 365 tenant with trial subscription, configured global admin account with MFA enforcement.
+
+**Skills Demonstrated:**
+- Enterprise tenant provisioning
+- Multi-factor authentication setup
+- Administrative security best practices
+
+**Evidence:** M365 tenant creation and initial security configuration
+![M365 Tenant Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot1.png)
+
+---
+
+#### **Step 3 — Custom Domain Integration**
+**Technical Implementation:** Successfully integrated purchased domain with Microsoft 365, configured DNS records for Exchange, SharePoint, Teams, and Intune services.
+
+**Skills Demonstrated:**
+- Multi-service DNS configuration
+- Microsoft 365 service integration
+- Domain verification processes
+
+**Evidence:** Custom domain verification and service configuration
+![Custom Domain Integration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot.png)
+
+---
