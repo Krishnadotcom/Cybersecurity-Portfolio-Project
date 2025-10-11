@@ -147,7 +147,7 @@ These features ensure a stable foundation for a cloud-centric enterprise infrast
 
 ---
 
-#### **Step 3 — Custom Domain Integration**
+### ** — Custom Domain Integration**
 
 **Technical Implementation:** Successfully integrated purchased domain with Microsoft 365, configured DNS records for Exchange, SharePoint, Teams, and Intune services.
 
