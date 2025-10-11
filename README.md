@@ -158,6 +158,6 @@ These features ensure a stable foundation for a cloud-centric enterprise infrast
 - Domain verification processes
 
 **Evidence:** Custom domain verification and service configuration
-![Custom Domain Integration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot.png)
+![Custom Domain Integration](/Screenshots/domains.png)
 
 ---
