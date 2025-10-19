@@ -132,7 +132,7 @@ These features ensure a stable foundation for a cloud-centric enterprise infrast
 
 ## Phase 2: Microsoft 365 Enterprise Setup
 
-## **Step 2 — Microsoft 365 Tenant Creation**
+## Step 2 — Microsoft 365 Tenant Creation
 
 **Technical Implementation:** Established enterprise Microsoft 365 tenant with trial subscription, configured global admin account with MFA enforcement.
 
